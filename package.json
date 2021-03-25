@@ -1,8 +1,9 @@
 {
   "name": "discordjsmsg-md",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library for converting discord.js Message objects to a markdown form.",
-  "main": "dist/index.js",
+  "main": "./dist/serializer.js",
+  "types": "./dist/serializer.d.ts",
   "files": [
     "dist"
   ],
